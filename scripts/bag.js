@@ -96,7 +96,7 @@ function generateItemHTML(item) {
     </div>
     <div class="delivery-details">
       Delivery by
-      <span class="delivery-details-days">${item.delivery_date}/span>
+      <span class="delivery-details-days">${item.delivery_date}</span>
     </div>
   </div>
 
